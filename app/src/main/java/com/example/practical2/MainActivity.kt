@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
         editText.visibility = View.GONE
         view.visibility = View.GONE
         nicknameTextView.visibility = View.VISIBLE
+        //nothing
     }
 
     private fun updateNickname (view: View) {
